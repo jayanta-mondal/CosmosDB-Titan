@@ -1,0 +1,13 @@
+com\thinkaurelius\titan\diskstorage\docdb\DocDBStoreManager.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBStoreManager$IsolationLevel$1.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBStoreManager$IsolationLevel$3.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBKeyValueStore$1.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBTx.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBStoreManager$IsolationLevel$2.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBStoreManager$TransactionBegin.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBTx$TransactionClose.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBStoreManager$IsolationLevel.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBKeyValueStore.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBStoreManager$1.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBStoreManager$IsolationLevel$4.class
+com\thinkaurelius\titan\diskstorage\docdb\DocDBKeyValueStore$2.class
